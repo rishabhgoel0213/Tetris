@@ -1,0 +1,25 @@
+# ninja log v5
+1	11	1652739318286882020	/home/rishabh/CLionProjects/TetrisGraphicsQt/cmake-build-debug/TetrisGraphicsQt_autogen/mocs_compilation.cpp	e8ee88ae7838520c
+1	11	1652739318286882020	/home/rishabh/CLionProjects/TetrisGraphicsQt/cmake-build-debug/TetrisGraphicsQt_autogen/timestamp	e8ee88ae7838520c
+11	1671	1652718181086841402	CMakeFiles/TetrisGraphicsQt.dir/main.cpp.o	e26ab9a8b832697
+1	11	1652739318286882020	TetrisGraphicsQt_autogen/mocs_compilation.cpp	e8ee88ae7838520c
+1365	1691	1652739319963548744	TetrisGraphicsQt	721cbfe39d890a95
+12	21	1652571131374478594	CMakeFiles/TetrisGraphicsQt.dir/TetrisGraphicsQt_autogen/mocs_compilation.cpp.o	6c7f9f620c6d956a
+0	67	1652658796510241953	build.ninja	f2d5f5be8a91f78f
+1	11	1652739318286882020	TetrisGraphicsQt_autogen/timestamp	e8ee88ae7838520c
+11	1365	1652739319640215400	CMakeFiles/TetrisGraphicsQt.dir/Game.cpp.o	ffb542ee90cb0e3c
+11	2211	1652718181626841421	CMakeFiles/TetrisGraphicsQt.dir/Board.cpp.o	ec64312d87fa6147
+9	1453	1652717246903475980	CMakeFiles/TetrisGraphicsQt.dir/Block.cpp.o	a2b9a0ac07e1fb74
+1	9	1652740030983573058	TetrisGraphicsQt_autogen/timestamp	e8ee88ae7838520c
+1	9	1652740030983573058	TetrisGraphicsQt_autogen/mocs_compilation.cpp	e8ee88ae7838520c
+1	9	1652740030983573058	/home/rishabh/CLionProjects/TetrisGraphicsQt/cmake-build-debug/TetrisGraphicsQt_autogen/timestamp	e8ee88ae7838520c
+1	9	1652740030983573058	/home/rishabh/CLionProjects/TetrisGraphicsQt/cmake-build-debug/TetrisGraphicsQt_autogen/mocs_compilation.cpp	e8ee88ae7838520c
+9	1024	1652740032000239760	CMakeFiles/TetrisGraphicsQt.dir/Game.cpp.o	ffb542ee90cb0e3c
+9	1082	1652740032056906428	CMakeFiles/TetrisGraphicsQt.dir/main.cpp.o	e26ab9a8b832697
+1082	1325	1652740032296906437	TetrisGraphicsQt	721cbfe39d890a95
+1	9	1652740044383573519	TetrisGraphicsQt_autogen/timestamp	e8ee88ae7838520c
+1	9	1652740044383573519	TetrisGraphicsQt_autogen/mocs_compilation.cpp	e8ee88ae7838520c
+1	9	1652740044383573519	/home/rishabh/CLionProjects/TetrisGraphicsQt/cmake-build-debug/TetrisGraphicsQt_autogen/timestamp	e8ee88ae7838520c
+1	9	1652740044383573519	/home/rishabh/CLionProjects/TetrisGraphicsQt/cmake-build-debug/TetrisGraphicsQt_autogen/mocs_compilation.cpp	e8ee88ae7838520c
+9	932	1652740045303573551	CMakeFiles/TetrisGraphicsQt.dir/Game.cpp.o	ffb542ee90cb0e3c
+932	1201	1652740045570240226	TetrisGraphicsQt	721cbfe39d890a95

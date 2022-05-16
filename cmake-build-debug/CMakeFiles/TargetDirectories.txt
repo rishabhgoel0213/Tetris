@@ -1,0 +1,5 @@
+/home/rishabh/CLionProjects/TetrisGraphicsQt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rishabh/CLionProjects/TetrisGraphicsQt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rishabh/CLionProjects/TetrisGraphicsQt/cmake-build-debug/CMakeFiles/TetrisGraphicsQt.dir
+/home/rishabh/CLionProjects/TetrisGraphicsQt/cmake-build-debug/CMakeFiles/TetrisGraphicsQt_autogen_timestamp_deps.dir
+/home/rishabh/CLionProjects/TetrisGraphicsQt/cmake-build-debug/CMakeFiles/TetrisGraphicsQt_autogen.dir

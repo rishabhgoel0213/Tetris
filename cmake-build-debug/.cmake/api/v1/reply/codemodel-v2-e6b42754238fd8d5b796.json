@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TetrisGraphicsQt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TetrisGraphicsQt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TetrisGraphicsQt-Debug-6a1d1adb1ed0e073f7cf.json",
+					"name" : "TetrisGraphicsQt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TetrisGraphicsQt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TetrisGraphicsQt_autogen-Debug-1b50a26cce343ce15be4.json",
+					"name" : "TetrisGraphicsQt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TetrisGraphicsQt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TetrisGraphicsQt_autogen_timestamp_deps-Debug-daa24a6e7c6762263239.json",
+					"name" : "TetrisGraphicsQt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rishabh/CLionProjects/TetrisGraphicsQt/cmake-build-debug",
+		"source" : "/home/rishabh/CLionProjects/TetrisGraphicsQt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
